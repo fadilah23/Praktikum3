@@ -34,8 +34,8 @@ Kemudian run lalu hasilnya akan muncul seperti pada gambar dibawah ini
  5. Output <b>"Masukkan Jari-jari Lingkaran :"</b>> agar User mengerti harus menginput nilai jari-jarinya 
  6. Menginput Variable r
  7. Assign Variable phi = 3.14
- 8. Assign untuk menghitung Luas Lingkaran dengan Rumus <b>L = phi*r*r</b>
- 9. Assign untuk menghitung Keliling Lingkaran dengan Rumus <b>L = 2*phi*r</b>
+ 8. Assign untuk menghitung Luas Lingkaran dengan Rumus <b>L = phi * r * r</b>
+ 9. Assign untuk menghitung Keliling Lingkaran dengan Rumus <b>L = 2 * phi * r</b>
  10. Output Menampilkan hasil Luas dan Keliling Lingkaran
  11. selesai
 
